@@ -1,11 +1,11 @@
 {
-    "name": "web_deploy_test",
-    "short_name": "web_deploy_test",
+    "name": "taikute_name",
+    "short_name": "taikute_short_name",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Desc.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
