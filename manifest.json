@@ -1,11 +1,11 @@
 {
-    "name": "taikute_name",
-    "short_name": "taikute_short_name",
+    "name": "Tai",
+    "short_name": "Tai",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "Desc.",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "description": "Description on mainfest.json",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
